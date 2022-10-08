@@ -1,2 +1,21 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+:root{
+  --white : hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+body{
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+.attribution a {
+   color: hsl(228, 45%, 44%); 
+}
