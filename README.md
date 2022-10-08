@@ -20,6 +20,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Project deployed
 
 - [GitHub Pages](https://codebreaker518.github.io/QR-CODE-COMPONENT/)
+- [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-basic-html5css-challenge-tno1YeKBw3)
 
 ## Author
 
