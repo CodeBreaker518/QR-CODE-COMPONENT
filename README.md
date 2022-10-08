@@ -19,7 +19,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 ## Project deployed
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://codebreaker518.github.io/QR-CODE-COMPONENT/)
 
 ## Author
 
